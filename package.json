@@ -1,0 +1,28 @@
+{
+  "name": "cypress-tp",
+  "version": "1.0.0",
+  "description": "Evalacion modulo QA Dicsys Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasG0nzalez/tp-cypress-dicsys.git"
+  },
+  "keywords": [
+    "js",
+    "test",
+    "testing",
+    "qa"
+  ],
+  "author": "Matias Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiasG0nzalez/tp-cypress-dicsys/issues"
+  },
+  "homepage": "https://github.com/MatiasG0nzalez/tp-cypress-dicsys#readme",
+  "dependencies": {
+    "cypress": "^12.17.2"
+  }
+}
